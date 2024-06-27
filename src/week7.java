@@ -9,9 +9,10 @@ public class week7 {
 
         /*
         Defining a Class
-        A class is a template for creating objects with shared attributes and behaviours. Attributes are also known as fields or properties.
+        A class is a template for creating objects with shared attributes and behaviours. Attributes are also known as
+        fields or properties.
         Behaviours are implemented as methods.
-        Example - Everything seems to be working now i can breatheeeee
+        Example -
          */
         class Student {
             String firstName;
@@ -88,7 +89,8 @@ public class week7 {
                     account2.withdraw(100.0);
 
                     System.out.println("Your " + account1.accountNumber + " balance is: " + account1.balance);
-                    System.out.println("your other account " + account2.accountNumber + " balance is: " + account2.balance);
+                    System.out.println("your other account " + account2.accountNumber + " balance is: "
+                            + account2.balance);
                 }
             }
 
@@ -99,27 +101,29 @@ public class week7 {
         /*
         CONSTRUCTORS:
 
-        In Java, a constructor is a special type of method that is used to initialize objects when they are created from a class.
-        It’s responsible for seing up the initial state of the object by assigning values to its instance variables and performing any necessary setup tasks.
+        In Java, a constructor is a special type of method that is used to initialize objects when they are
+        created from a class. It’s responsible for setting up the initial state of the object by assigning values
+         to its instance variables and performing any necessary setup tasks.
 
         A class with constructors:
-        public class car {
+        */
+        class car {
             private String make;
             private String model;
 
             // Default constructor
-            public Car(){
+            public car(){
                 make = "Unknown";
                 model = "Unknown";
             }
 
             // Parameterized constructor
-            public Car(String make, String model){
+            public car(String make, String model){
                 this.make = make;
                 this.model = model;
             }
         }
-         */
+
 
         /*
             //Access Modifiers: Access modifiers control the visibility and accessibility of classes, fields, methods, and constructors.
@@ -127,15 +131,12 @@ public class week7 {
 
             //Example: Access Modifiers
 
-       public class BankAccount {
-            // Public field accessible from anywhere
-            public String accountNumber;
-            // Private field accessible only within the class
-            private double balance;
-            // Default (package-private) field accessible within the same package
-            String accountType;
-            // Protected field accessible within the same package and subclasses
-            protected String ownerName;
+
+        public class BankAccount {
+            public String accountNumber;           // Public field accessible from anywhere
+            private double balance;               // Private field accessible only within the class
+            String accountType;                  // Default (package-private) field accessible within the same package
+            protected String ownerName;         // Protected field accessible within the same package and subclasses
 
             public double getBalance() {
                 return balance;
@@ -146,17 +147,15 @@ public class week7 {
             }
         }
 
-            //Example II: Access Modifiers
+         */
 
+            //Example II: Access Modifiers
+         /*
         public class BankAccount {
-            // Public field accessible from anywhere
-            public String accountNumber;
-            // Private field accessible only within the class
-            private double balance;
-            // Default (package-private) field accessible within the same package
-            String accountType;
-            // Protected field accessible within the same package and subclasses
-            protected String ownerName;
+            public String accountNumber;       // Public field accessible from anywhere
+            private double balance;           // Private field accessible only within the class
+            String accountType;              // Default (package-private) field accessible within the same package
+            protected String ownerName;     // Protected field accessible within the same package and subclasses
 
             void displayAccountInfo() {
              System.out.printIn("Balance: " + balance);
@@ -172,9 +171,11 @@ public class week7 {
         //Special Keywords: This
           Refers to the current instance of the class.
           Used to distinguish between instance variables and method parameters with the same name. Example
-
+        */
+        /*
         public class Main {
-            int X;
+            int x;
+
             // Constructor with a parameter
             public Main(int x) {
                 this.x = x;
@@ -213,18 +214,7 @@ public class week7 {
             }
         }
 
- */
-
-
-
-
-
-
-
-
-
-
-
+    */
 
     }
 }
