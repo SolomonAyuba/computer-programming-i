@@ -1,4 +1,4 @@
-public class Week7_MidLessonQuestion {
+public class week7_MidLessonQuestion {
     public static void main(String[] args) {
     /*
         Mid-lesson question
@@ -9,7 +9,6 @@ public class Week7_MidLessonQuestion {
 
         1. Create multiple instances of the Book class to represent different books in the library.
         2. Perform borrowing and returning operations on the books, and display their information.
-
         Answer: Mid-lesson question
      */
         class Book {

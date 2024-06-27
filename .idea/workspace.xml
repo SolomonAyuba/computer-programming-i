@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1769d95-4006-4a89-a2d1-5c268f9ea947" name="Changes" comment="Week 7">
+    <list default="true" id="a1769d95-4006-4a89-a2d1-5c268f9ea947" name="Changes" comment="Week 7 Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COS201/week7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/week7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week7_MidLessonQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7_MidLessonQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +118,7 @@
       <workItem from="1719495496201" duration="24000" />
       <workItem from="1719495557219" duration="311000" />
       <workItem from="1719496533134" duration="1115000" />
-      <workItem from="1719497656640" duration="9116000" />
+      <workItem from="1719497656640" duration="9330000" />
     </task>
     <task id="LOCAL-00001" summary="Validating Commit">
       <option name="closed" value="true" />
@@ -183,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719507862037</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Week 7 Commit">
+      <option name="closed" value="true" />
+      <created>1719508893042</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719508893042</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Week 7 Commit">
+      <option name="closed" value="true" />
+      <created>1719508901660</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719508901660</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +223,8 @@
     <MESSAGE value="Second Commit" />
     <MESSAGE value="Mid Lesson Exercise" />
     <MESSAGE value="Week 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 7" />
+    <MESSAGE value="Week 7 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 7 Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

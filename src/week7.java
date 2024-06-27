@@ -8,10 +8,8 @@ public class week7 {
         //WEEK 7: Object Oriented Programming,	Monday 24th June, 2024
 
         /*
-        Defining a Class
-        A class is a template for creating objects with shared attributes and behaviours. Attributes are also known as
-        fields or properties.
-        Behaviours are implemented as methods.
+        Defining a Class: A class is a template for creating objects with shared attributes and behaviours.
+        Attributes are also known as fields or properties.Behaviours are implemented as methods.
         Example -
          */
         class Student {
@@ -95,7 +93,7 @@ public class week7 {
             }
 
 
-            // Mid Lesson Exercise in: src/Week7_MidLessonQuestion.java
+            // Mid Lesson Exercise in: src/week7_MidLessonQuestion.java
 
 
         /*
