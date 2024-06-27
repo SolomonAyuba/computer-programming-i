@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1769d95-4006-4a89-a2d1-5c268f9ea947" name="Changes" comment="Upload">
+    <list default="true" id="a1769d95-4006-4a89-a2d1-5c268f9ea947" name="Changes" comment="Second Commit">
+      <change afterPath="$PROJECT_DIR$/src/Week7_MidLessonQuestion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COS201/week7$1Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/week7$1Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COS201/week7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/week7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SolomonAyuba"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SolomonAyuba/Computer-Programming-I.git",
+    "accountId": "489ffed6-18e7-463e-88f8-6357d02df350"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
@@ -31,33 +47,36 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2i3EHOtlhPhPxwZ7EmKtJvS93wn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.simpleCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.week6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.week6StringManipulation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.week6StringReversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.week7.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/solomonayuba/Documents/Docs/School /Miva Open University/Data Science Program/200 Level Semester 1/Mon - Computer Programming 1 - COS 201/Code/Computer-Programming-I&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/solomonayuba/Documents/Docs/School /Miva Open University/Data Science Program/200 Level Semester 1/Mon - Computer Programming 1 - COS 201/Code/COS201/week7/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Week7_MidLessonQuestion.executor": "Run",
+    "Application.simpleCalculator.executor": "Run",
+    "Application.week6.executor": "Run",
+    "Application.week6StringManipulation.executor": "Run",
+    "Application.week6StringReversal.executor": "Run",
+    "Application.week7.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/solomonayuba/Documents/Docs/School /Miva Open University/Data Science Program/200 Level Semester 1/Mon - Computer Programming 1 - COS 201/Code/Computer-Programming-I",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/solomonayuba/Documents/Docs/School /Miva Open University/Data Science Program/200 Level Semester 1/Mon - Computer Programming 1 - COS 201/Code/COS201/week7/src/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Computer-Programming-I" />
@@ -101,6 +120,7 @@
       <workItem from="1719495496201" duration="24000" />
       <workItem from="1719495557219" duration="311000" />
       <workItem from="1719496533134" duration="1115000" />
+      <workItem from="1719497656640" duration="6792000" />
     </task>
     <task id="LOCAL-00001" summary="Validating Commit">
       <option name="closed" value="true" />
@@ -118,7 +138,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719497036639</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Second Commit">
+      <option name="closed" value="true" />
+      <created>1719497716200</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719497716200</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Second Commit">
+      <option name="closed" value="true" />
+      <created>1719497805658</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719497805658</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +174,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Validating Commit" />
     <MESSAGE value="Upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload" />
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
