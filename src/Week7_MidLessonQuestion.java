@@ -2,16 +2,16 @@ public class Week7_MidLessonQuestion {
     public static void main(String[] args) {
     /*
         Mid-lesson question
-          Assume you are assigned a task of designing a library management system in Java. Create a class “Book” to represent books in the library.
+        Assume you are assigned a task of designing a library management system in Java. Create a class “Book” to represent books in the library.
 
-                Each book has the following attributes: title (String), author (String), isbn (String), numPages (int) and available (boolean).
-                The class should have the following methods: borrowBook(), returnBook() and displayBookInfo().
+        Each book has the following attributes: title (String), author (String), isbn (String), numPages (int) and available (boolean).
+        The class should have the following methods: borrowBook(), returnBook() and displayBookInfo().
 
-                1. Create multiple instances of the Book class to represent different books in the library.
-                2. Perform borrowing and returning operations on the books, and display their information.
+        1. Create multiple instances of the Book class to represent different books in the library.
+        2. Perform borrowing and returning operations on the books, and display their information.
 
-             Answer: Mid-lesson question
-             */
+        Answer: Mid-lesson question
+     */
         class Book {
             private String title;
             private String author;

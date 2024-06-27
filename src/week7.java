@@ -93,6 +93,9 @@ public class week7 {
             }
 
 
+            // Mid Lesson Exercise in: src/Week7_MidLessonQuestion.java
+
+
         /*
         CONSTRUCTORS:
 
