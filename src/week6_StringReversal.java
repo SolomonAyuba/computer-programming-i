@@ -1,4 +1,4 @@
-public class week6StringReversal {
+public class week6_StringReversal {
         public static String reverseString(String input) {
 
             //Reversing a String

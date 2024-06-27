@@ -216,7 +216,7 @@ public class week6 {
 
     }
 
-    // Check week6StringReversal.java and week6StringManipulation.java files for the final exercise on Week 6
+    // Check week6_StringReversal.java and week6_StringManipulation.java files for the final exercise on Week 6
 
 
 }

@@ -1,4 +1,4 @@
-public class week6StringManipulation {
+public class week6_StringManipulation {
         public static void main (String[] args) {
 
             //String Manipulation and Analysis Example

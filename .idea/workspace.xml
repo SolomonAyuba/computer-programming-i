@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a1769d95-4006-4a89-a2d1-5c268f9ea947" name="Changes" comment="Week 7 Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6StringManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6_StringManipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week6StringReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6_StringReversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SolomonAyuba"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SolomonAyuba&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SolomonAyuba/Computer-Programming-I.git",
-    "accountId": "489ffed6-18e7-463e-88f8-6357d02df350"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SolomonAyuba/Computer-Programming-I.git&quot;,
+    &quot;accountId&quot;: &quot;489ffed6-18e7-463e-88f8-6357d02df350&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
@@ -69,7 +72,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/solomonayuba/Documents/Docs/School /Miva Open University/Data Science Program/200 Level Semester 1/Mon - Computer Programming 1 - COS 201/Code/COS201/week7/src/Main.java",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -116,7 +119,8 @@
       <workItem from="1719495496201" duration="24000" />
       <workItem from="1719495557219" duration="311000" />
       <workItem from="1719496533134" duration="1115000" />
-      <workItem from="1719497656640" duration="14180000" />
+      <workItem from="1719497656640" duration="14216000" />
+      <workItem from="1719522750653" duration="936000" />
     </task>
     <task id="LOCAL-00001" summary="Validating Commit">
       <option name="closed" value="true" />
@@ -206,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719509107284</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Week 7 Commit">
+      <option name="closed" value="true" />
+      <created>1719522691261</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719522691261</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
