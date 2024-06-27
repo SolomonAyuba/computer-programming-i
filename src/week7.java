@@ -11,7 +11,7 @@ public class week7 {
         Defining a Class
         A class is a template for creating objects with shared attributes and behaviours. Attributes are also known as fields or properties.
         Behaviours are implemented as methods.
-        Example
+        Example - validating commit
          */
 
         class Student {
@@ -29,7 +29,6 @@ public class week7 {
             Use the new keyword to create objects.
             Example
         */
-
              Student student1 = new Student();
              Student student2 = new Student();
 
