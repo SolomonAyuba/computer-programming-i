@@ -11,7 +11,7 @@ public class week7 {
         Defining a Class
         A class is a template for creating objects with shared attributes and behaviours. Attributes are also known as fields or properties.
         Behaviours are implemented as methods.
-        Example - Everything seems to be working now i can breathe
+        Example - Everything seems to be working now i can breatheeeee
          */
 
         class Student {
