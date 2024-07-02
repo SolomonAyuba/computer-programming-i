@@ -8,4 +8,4 @@ Faculty: Computer Science
 
 Department: Data Science
 
-NB: This project was initiated using Jetbrain's CLion IDE. An open-source IDE of JetBrains (https://www.jetbrains.com/clion/).
+NB: This project was initiated using JetBrains' CLion IDE, an open-source IDE of JetBrains (https://www.jetbrains.com/clion/).
