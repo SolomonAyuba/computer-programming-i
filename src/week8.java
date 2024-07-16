@@ -118,17 +118,16 @@ public class week8 {
             Inheritance
             Use the extends keyword to create a subclass. Example
              */
-        class Animal{
-            void eat(){
-                // Implementation
+            class Animal{
+                void eat(){
+                    // Implementation
+                }
             }
-        }
-        class Dog extends Animal{
-            void bark(){
-                // Implementation
+            class Dog extends Animal{
+                void bark(){
+                    // Implementation
+                }
             }
-        }
-        // Inheritance Example in week8_Inheritance
-        // Method Overriding in week8_MethodOveridding
-        // Polymorphism, Interfaces: Example in week8_Polymorphism
-
+            // Inheritance Example in week8_Inheritance
+            // Method Overriding in week8_MethodOveridding
+            // Polymorphism, Interfaces: Example in week8_Polymorphism
