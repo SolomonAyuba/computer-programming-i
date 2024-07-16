@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1769d95-4006-4a89-a2d1-5c268f9ea947" name="Changes" comment="Week 7 Commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8_Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8_MethodOveridding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week8_Polymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COS201/Week7_MidLessonQuestion$1Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/Week7_MidLessonQuestion$1Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COS201/Week7_MidLessonQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/Week7_MidLessonQuestion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COS201/week6StringManipulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COS201/week6StringReversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COS201/week7$1BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/week7$1BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COS201/week7$1Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/week7$1Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COS201/week7$1Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/week7$1Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COS201/week7$1car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/week7$1car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COS201/week7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/week7.class" afterDir="false" />
-    </list>
+    <list default="true" id="a1769d95-4006-4a89-a2d1-5c268f9ea947" name="Changes" comment="Week 8 module" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +125,7 @@
       <workItem from="1719599508468" duration="9000" />
       <workItem from="1719931535882" duration="14000" />
       <workItem from="1720006644770" duration="11000" />
-      <workItem from="1721002291062" duration="20133000" />
+      <workItem from="1721002291062" duration="20180000" />
     </task>
     <task id="LOCAL-00001" summary="Validating Commit">
       <option name="closed" value="true" />
@@ -249,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719523704780</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Week 8 module">
+      <option name="closed" value="true" />
+      <created>1721143634623</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721143634623</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +264,8 @@
     <MESSAGE value="Mid Lesson Exercise" />
     <MESSAGE value="Week 7" />
     <MESSAGE value="Week 7 Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 7 Commit" />
+    <MESSAGE value="Week 8 module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 8 module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
