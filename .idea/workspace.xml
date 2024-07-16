@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1769d95-4006-4a89-a2d1-5c268f9ea947" name="Changes" comment="Week 7 Commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week8_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week8_MethodOveridding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week8_Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6StringManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6_StringManipulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week6StringReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week6_StringReversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COS201/Week7_MidLessonQuestion$1Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/Week7_MidLessonQuestion$1Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COS201/Week7_MidLessonQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/Week7_MidLessonQuestion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COS201/week6StringManipulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COS201/week6StringReversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COS201/week7$1BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/week7$1BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COS201/week7$1Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/week7$1Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COS201/week7$1Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/week7$1Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COS201/week7$1car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/week7$1car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/COS201/week7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COS201/week7.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +68,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
     "Application.Week7_MidLessonQuestion.executor": "Run",
     "Application.simpleCalculator.executor": "Run",
@@ -62,6 +76,11 @@
     "Application.week6StringManipulation.executor": "Run",
     "Application.week6StringReversal.executor": "Run",
     "Application.week7.executor": "Run",
+    "Application.week8.executor": "Run",
+    "Application.week8_Inheritance.executor": "Run",
+    "Application.week8_MethodOveridding.executor": "Run",
+    "Application.week8_MidLessonQuestion.executor": "Run",
+    "Application.week8_Polymorphism.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -120,7 +139,11 @@
       <workItem from="1719495557219" duration="311000" />
       <workItem from="1719496533134" duration="1115000" />
       <workItem from="1719497656640" duration="14216000" />
-      <workItem from="1719522750653" duration="936000" />
+      <workItem from="1719522750653" duration="979000" />
+      <workItem from="1719599508468" duration="9000" />
+      <workItem from="1719931535882" duration="14000" />
+      <workItem from="1720006644770" duration="11000" />
+      <workItem from="1721002291062" duration="20133000" />
     </task>
     <task id="LOCAL-00001" summary="Validating Commit">
       <option name="closed" value="true" />
@@ -218,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719522691261</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Week 7 Commit">
+      <option name="closed" value="true" />
+      <created>1719523704780</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719523704780</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,6 +267,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Validating Commit" />
     <MESSAGE value="Upload" />
     <MESSAGE value="Second Commit" />
