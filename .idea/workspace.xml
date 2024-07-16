@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1769d95-4006-4a89-a2d1-5c268f9ea947" name="Changes" comment="Week 8 module">
+      <change afterPath="$PROJECT_DIR$/src/week10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9_Backtracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9_FactorialRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week9_PowerCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week8_MethodOveridding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week8_MethodOveridding.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,7 @@
       <list>
         <option value="module-info" />
         <option value="package-info" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -74,6 +77,9 @@
     "Application.week8_MethodOveridding.executor": "Run",
     "Application.week8_MidLessonQuestion.executor": "Run",
     "Application.week8_Polymorphism.executor": "Run",
+    "Application.week9.executor": "Run",
+    "Application.week9_Backtracking.executor": "Run",
+    "Application.week9_PowerCalculator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -84,6 +90,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/solomonayuba/Documents/Docs/School /Miva Open University/Data Science Program/200 Level Semester 1/Mon - Computer Programming 1 - COS 201/Code/COS201/week7/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -136,7 +145,7 @@
       <workItem from="1719599508468" duration="9000" />
       <workItem from="1719931535882" duration="14000" />
       <workItem from="1720006644770" duration="11000" />
-      <workItem from="1721002291062" duration="21703000" />
+      <workItem from="1721002291062" duration="35213000" />
     </task>
     <task id="LOCAL-00001" summary="Validating Commit">
       <option name="closed" value="true" />
@@ -258,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721143722037</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Week 8 module">
+      <option name="closed" value="true" />
+      <created>1721151742201</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721151742201</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
