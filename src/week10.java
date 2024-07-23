@@ -1,6 +1,12 @@
 public class week10 {
     public static void main (String[] args){
 
+    // For spacing between codes
+    String space = "---------";
+    System.out.println(space + "WEEK 10: Exceptions and Debugging | Tuesday 16th July, 2024"
+            + space);
+
+    //WEEK 10: Exceptions and Debugging | Tuesday 16th July, 2024
 
     /*
     Common Programming Errors: Syntax Errors
