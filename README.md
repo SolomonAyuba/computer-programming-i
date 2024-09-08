@@ -8,7 +8,7 @@ This repo contains weekly practicals from the Computer Programming I (COS 201) c
   
   **Department:** Data Science
 
-  *NB:* This project was initiated using JetBrains' CLion IDE, an open-source IDE of [JetBrains](https://www.jetbrains.com/clion/).
+  **NB:** This project was initiated using JetBrains' CLion IDE, an open-source IDE of [JetBrains](https://www.jetbrains.com/clion/).
 
-© [Miva Open University](https://miva.university/).
+© [Miva Open University](https://miva.university/) 2024.
 
