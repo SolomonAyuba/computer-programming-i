@@ -1,4 +1,4 @@
-# Computer Programming II
+# Computer Programming I
 
 This repo contains weekly practicals from the Computer Programming I (COS 201) course module; for the 200-level, 1st semester students of Data Science at [Miva Open University](https://miva.university/bsc-in-data-science/).
 
